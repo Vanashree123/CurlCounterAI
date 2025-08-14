@@ -1,6 +1,6 @@
-# PoseAngleTracker
+# CurlCounterAI
 
-PoseAngleTracker uses **MediaPipe** and **OpenCV** to detect body landmarks in real-time via webcam. It calculates joint angles and tracks exercise repetitions, providing visual feedback directly on the screen. Ideal for fitness monitoring, exercise analysis, and AI-based posture tracking.
+CurlCounterAI uses **MediaPipe** and **OpenCV** to detect body landmarks in real-time via webcam. It calculates joint angles and tracks exercise repetitions, providing visual feedback directly on the screen. Ideal for fitness monitoring, exercise analysis, and AI-based posture tracking.
 
 ## Features
 
